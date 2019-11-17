@@ -1,2 +1,5 @@
 class User 
-  attr_accessible :first name 
+  attr_accessible :first_name, :last_name
+  
+end
+  
